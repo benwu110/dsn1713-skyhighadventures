@@ -1,0 +1,13 @@
+@media (min-width: 768px) {
+    .form-control,
+    .search-btn {
+        display: none;
+    }   
+}
+
+@media (min-width: 992px) {
+    .form-control,
+    .search-btn {
+        display: block;
+    }   
+}
